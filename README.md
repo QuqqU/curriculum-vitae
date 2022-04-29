@@ -56,7 +56,9 @@
 -   QuqqU https://github.com/QuqqU
 -   Favorite repo : Squirt Script Programming Language in Rust https://github.com/QuqqU/Squirt
 -   Pwntools Commit(Merged) : PR #2055, commit ca712e7ee4ac097fc15a7a81ccb28ea76907bfd1 “Correct a return type in Docstring”
--   Phil-opp/blog-os(minimal Kernel in Rust) : Korean Translation Reviewer : PR # 1079
+-   Phil-opp/blog-os(minimal Kernel in Rust) : Korean Translation Reviewer 
+    - PR # 1101 (https://github.com/phil-opp/blog_os/pull/1101)
+    - PR # 1079
 
 ---
 
