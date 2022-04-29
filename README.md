@@ -1,20 +1,13 @@
 # 정기웅(KiUng Jung)
 
-<div align="right">
-
-## 연세대학교 컴퓨터과학과
-
-2023.08 졸업 예정
-
+### 연세대학교 컴퓨터과학과
+### 2023.08 졸업 예정
 ### rldnd913@naver.com, answeqr@gmail.com
-
-_updated @04/29/22_
-
-</div>
+### _updated @04/29/22_
 
 ---
 
-# Skill
+## Skill
 
 -   Algorithm : 매우 익숙
 
@@ -74,14 +67,14 @@ _updated @04/29/22_
 
 ---
 
-# NPM
+## NPM
 
 -   is-real : 실수 판별기 (https://www.npmjs.com/package/is-real)
     SW Maestro 12기 과정 중, 장난스럽게 개발
 
 ---
 
-# BOJ
+## BOJ
 
 -   Handle: QuqqU(https://www.acmicpc.net/user/QuqqU)
 -   출제한 문제 목록: https://www.acmicpc.net/problemset?sort=no_asc&author=QuqqU&author_type=1
