@@ -19,6 +19,22 @@
 
 ---
 
+## 약력
+
+-   2018.02
+    -   App Store “Who’stone” 게임앱 출시
+-   2018.07 ~ 2018.11
+    -   카카오 공동체경영협의체 전략지원팀 어시스턴트
+-   2021.04 ~ 2018.12
+    -   SW 마에스트로 12기(eedited팀 / www.eedited.com)
+    -   Role: Backend(TS + Node-Express), Infra, CI/CD, Project Management, etc
+-   2021.07 ~ 2022.02
+    -   연세대학교 알고리즘 동아리 모르고리즘 회장
+-   2022.01 ~ 2022.02
+    -   삼성전자 삼성전자 동계 SW 역량 강화 특강 수료, 우수자 선정
+
+---
+
 ## Skill
 
 -   C/C++ : 매우 익숙
@@ -77,22 +93,6 @@
 -   Handle: QuqqU(https://www.acmicpc.net/user/QuqqU)
 -   출제한 문제 목록: https://www.acmicpc.net/problemset?sort=no_asc&author=QuqqU&author_type=1
 -   검수한 문제 목록: https://www.acmicpc.net/problemset?sort=no_asc&author=QuqqU&author_type=19
-
----
-
-## 약력
-
--   2018.02
-    -   App Store “Who’stone” 게임앱 출시
--   2018.07 ~ 2018.11
-    -   카카오 공동체경영협의체 전략지원팀 어시스턴트
--   2021.04 ~ 2018.12
-    -   SW 마에스트로 12기(eedited팀 / www.eedited.com)
-    -   Role: Infra, CI/CD, Project Management, etc
--   2021.07 ~ 2022.02
-    -   연세대학교 알고리즘 동아리 모르고리즘 회장
--   2022.01 ~ 2022.02
-    -   삼성전자 삼성전자 동계 SW 역량 강화 특강 수료, 우수자 선정
 
 ---
 
