@@ -25,10 +25,10 @@
 ## Certificated program
 
 - Apr. 2021 ~ Dec. 2021
-  - SW Maestro 12th(Team. eedited)
+  - Team. eedited, SW Maestro 12th
   - Role: Backend(TS + Node-Express), Infra, CI/CD, Project Management
 - Jan. 2022 ~ Feb. 2022
-  - Samsung Electronics Winter S/W Camp, Academic Excellence
+  - Academic Excellence, Samsung Electronics Winter S/W Camp
   - 삼성전자 삼성전자 동계 SW 역량 강화 특강 수료, 우수자 선정
 
 ---
@@ -59,12 +59,12 @@
   - _Management Support Assistant_, Corporate Strategy Team, kakao
   - 카카오 공동체경영협의체 전략지원팀 어시스턴트
 - Apr. 2021 ~ Dec. 2021
-  - SW Maestro 12th(Team. eedited / www.eedited.com)
-  - Role: Backend(TS + Node-Express), Infra, CI/CD, Project Management, etc
+  - Team. eedited, SW Maestro 12th
+  - Role: Backend(TS + Node-Express), Infra, CI/CD, Project Management
 - July. 2021 ~ Feb. 2022
   - Club president, Molgorithm(Yonsei Univ. Algorithm Club)
 - Jan. 2022 ~ Feb. 2022
-  - Samsung Electronics Winter S/W Camp, Academic Excellence
+  - Academic Excellence, Samsung Electronics Winter S/W Camp
   - 삼성전자 삼성전자 동계 SW 역량 강화 특강 수료, 우수자 선정
 
 ---
