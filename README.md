@@ -1,6 +1,6 @@
 # 정기웅(KiUng Jung)
 
-### 연세대학교 컴퓨터과학
+### 연세대학교 컴퓨터과학과
 ### rldnd913@naver.com, answeqr@gmail.com
 ### _updated @04/29/22_
 
