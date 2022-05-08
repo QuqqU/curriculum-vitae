@@ -7,7 +7,7 @@
 
 ## Education
 
-- Aug. 2023 (Expected) 
+- Feb. 2024 (Expected) 
     - B.S., Computer Science  
     -   Yonsei University, Korea
 
