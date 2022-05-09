@@ -41,7 +41,7 @@
     -   Squirt Script Programming Language in Rust (https://github.com/QuqqU/Squirt)
 -   Contribution
     -   Pwntools (CTF toolkit)
-        -   PR #2055 : “Correct a return type in Docstring”
+        -   PR #2055 (Merged) : “Correct a return type in Docstring”
     -   Ubuntu 22.04 Release Note
         -   Participate in Korean translation of release note
         -   From 'Official flavours' to 'More about Ubuntu'(3 small paragraphs)
