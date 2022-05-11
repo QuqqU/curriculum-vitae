@@ -28,7 +28,7 @@
     -   Team. eedited, SW Maestro 12th
     -   Role: Backend(TS + Node-Express), Infra, CI/CD, Project Management
 -   Jan. 2022 ~ Feb. 2022
-    -   Academic Excellence, Samsung Electronics Winter SW expert academy
+    -   Academic Excellence, Samsung Electronics Winter SW Expert Academy
     -   삼성전자 삼성전자 동계 SW 역량 강화 특강 수료, 우수자 선정
 
 ---
