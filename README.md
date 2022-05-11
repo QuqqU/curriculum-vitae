@@ -2,7 +2,7 @@
 
 ### rldnd913@naver.com, answeqr@gmail.com
 
-### _updated @05/09/22_
+### _updated @05/11/22_
 
 ---
 
@@ -28,7 +28,7 @@
     -   Team. eedited, SW Maestro 12th
     -   Role: Backend(TS + Node-Express), Infra, CI/CD, Project Management
 -   Jan. 2022 ~ Feb. 2022
-    -   Academic Excellence, Samsung Electronics Winter S/W Camp
+    -   Academic Excellence, Samsung Electronics Winter SW expert academy
     -   삼성전자 삼성전자 동계 SW 역량 강화 특강 수료, 우수자 선정
 
 ---
