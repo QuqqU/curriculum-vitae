@@ -17,7 +17,7 @@
 ## Employment
 
 -   July. 2018 ~ Nov. 2018
-    -   _Management Support Assistant_, Coporate Mangement / Strategy Team
+    -   _Management Support Assistant_, Corporate Mangement / Strategy Team
     -   Kakao
 
 ---
