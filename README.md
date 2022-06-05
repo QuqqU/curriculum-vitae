@@ -2,7 +2,12 @@
 
 ### rldnd913@naver.com, answeqr@gmail.com
 
-### _updated @05/11/22_
+### _updated @06/06/22_
+
+---
+
+# Interests
+My research interests lie at the intersection of systems, security, and programming languages. In particular, I am interested in implementing and understanding compiler including, but not limited to, infrastructure, design pattern, and sw engineering.
 
 ---
 
