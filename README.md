@@ -156,20 +156,9 @@ My research interests lie at the intersection of systems, security, and programm
 
 -   Nov. 2017
     -   The first prize, Sogang Univ. Programming Contest(Master)
--   July. 2018
-    -   UCPC final (participant)
--   July. 2020
-    -   Problem-setter (staff), UCPC preliminaries
-        (https://www.acmicpc.net/contest/view/522)
 -   Nov. 2020
     -   Problem-reviewer (staff), Sogang Univ. Programming Contest
         (https://www.acmicpc.net/contest/view/564)
--   Feb. 2021
-    -   Problem-setter (staff), ICPC Sinchon Winter Algorithm Camp
-        (https://www.acmicpc.net/contest/view/590)
--   Feb. 2021
-    -   Problem-setter (staff), SUAPC 2021 Winter
-        (https://www.acmicpc.net/contest/view/587)
 -   May. 2021
     -   Problem-setter (staff), Yonsei Univ. Freshman Programming Contest
         (https://www.acmicpc.net/contest/view/640)
