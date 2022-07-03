@@ -2,7 +2,7 @@
 
 ### rldnd913@naver.com, answeqr@gmail.com
 
-### _updated @06/06/22_
+### _updated @04/07/22_
 
 ---
 
@@ -22,10 +22,10 @@ My research interests lie at the intersection of systems, security, and programm
 ## Employment
 
 -   July. 2018 ~ Nov. 2018
-    -   _Management Support Assistant_, Corporate Mangement / Strategy Team
+    -   _Management Support Assistant_, Strategy Team, Corporate Mangement
     -   Kakao
 -   July. 2022 ~ now
-    -   Software Engineering Intern, VD, DX department
+    -   Software Engineering Intern, Visual Display, DX department
     -   Samsung Electronics
 
 
