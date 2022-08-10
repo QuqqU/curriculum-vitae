@@ -25,7 +25,7 @@ My research interests lie at the intersection of systems, security, and programm
     -   _Management Support Assistant_, Strategy Team, Corporate Mangement
     -   Kakao
 -   July. 2022 ~ now
-    -   Software Engineering Intern, Service SW Lab, DX department
+    -   Software Engineering Intern, Service SW Lab(VD), DX department
     -   Samsung Electronics
 
 
