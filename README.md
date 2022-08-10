@@ -25,7 +25,7 @@ My research interests lie at the intersection of systems, security, and programm
     -   _Management Support Assistant_, Strategy Team, Corporate Mangement
     -   Kakao
 -   July. 2022 ~ now
-    -   Software Engineering Intern, Visual Display, DX department
+    -   Software Engineering Intern, Service SW Lab, DX department
     -   Samsung Electronics
 
 
@@ -73,8 +73,6 @@ My research interests lie at the intersection of systems, security, and programm
 -   Apr. 2021 ~ Dec. 2021
     -   Team. eedited, SW Maestro 12th
     -   Role: Backend(TS + Node-Express), Infra, CI/CD, Project Management
--   July. 2021 ~ Feb. 2022
-    -   Club President, Molgorithm(Yonsei Univ. Algorithm Club)
 -   Jan. 2022 ~ Feb. 2022
     -   Academic Excellence, Samsung Electronics Winter S/W Camp
     -   삼성전자 삼성전자 동계 SW 역량 강화 특강 수료, 우수자 선정
