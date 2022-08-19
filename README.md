@@ -23,7 +23,7 @@ My research interests lie at the intersection of systems, security, and programm
 
 -   July. 2018 ~ Nov. 2018
     -   _Management Support Assistant_, Corporate Mangement, Kakao
--   July. 2022 ~ now
+-   July. 2022 ~ Aug. 2022
     -   _Software Engineering Intern_, Visual Display Business, Samsung Electronics
     -   Have committed to Live Server
     -   Have developed Seller Office(back office of TV app store) and built MLOps
