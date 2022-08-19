@@ -2,7 +2,7 @@
 
 ### rldnd913@naver.com, answeqr@gmail.com
 
-### _updated @04/07/22_
+### _updated @20/08/22_
 
 ---
 
@@ -22,12 +22,12 @@ My research interests lie at the intersection of systems, security, and programm
 ## Employment
 
 -   July. 2018 ~ Nov. 2018
-    -   _Management Support Assistant_, Strategy Team, Corporate Mangement
-    -   Kakao
+    -   _Management Support Assistant_, Corporate Mangement, Kakao
 -   July. 2022 ~ now
-    -   Software Engineering Intern, Service SW Lab(VD), DX department
-    -   Samsung Electronics
-
+    -   _Software Engineering Intern_, Visual Display Business, Samsung Electronics
+    -   Have committed to Live Server
+    -   Have developed Seller Office(back office of TV app store) and built MLOps
+    -   Got the SW PRO Certificate during internship
 
 ---
 
