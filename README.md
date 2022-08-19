@@ -15,7 +15,7 @@ My research interests lie at the intersection of systems, security, and programm
 
 ## Education
 
--   Feb. 2024 (Expected)
+-   Aug. 2023
     -   B.S., Computer Science
     -   Yonsei University, South Korea
 
