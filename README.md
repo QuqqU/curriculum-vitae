@@ -9,6 +9,8 @@
 ## Interests
 My research interests lie at the intersection of systems, security, and programming languages. In particular, I am interested in implementing and understanding compiler including, but not limited to, infrastructure, design pattern, and sw engineering.
 
+*I don't care about the means, the method, the subject, everything.*
+
 ---
 
 ## Education
