@@ -1,8 +1,8 @@
-# KiUng Jung(정기웅)
+# KiUng Jung
 
 ### rldnd913@naver.com, answeqr@gmail.com
 
-### _updated @20/08/22_
+### _updated @29/08/22_
 
 ---
 
@@ -40,7 +40,6 @@ My research interests lie at the intersection of systems, security, and programm
     -   Role: Backend(TS + Node-Express), Infra, CI/CD, Project Management
 -   Jan. 2022 ~ Feb. 2022
     -   Academic Excellence, Samsung Electronics Winter SW Expert Academy
-    -   삼성전자 삼성전자 동계 SW 역량 강화 특강 수료, 우수자 선정
 
 ---
 
@@ -71,13 +70,13 @@ My research interests lie at the intersection of systems, security, and programm
     -   All stones are black, so players need to remember which stones are black or white.
 -   July. 2018.07 ~ Nov. 2018
     -   _Management Support Assistant_, Corporate Strategy Team, Kakao
-    -   카카오 공동체경영협의체 전략지원팀 어시스턴트
+    -   (Korean) *카카오 공동체경영협의체 전략지원팀 어시스턴트*
 -   Apr. 2021 ~ Dec. 2021
     -   Team. eedited, SW Maestro 12th
     -   Role: Backend(TS + Node-Express), Infra, CI/CD, Project Management
 -   Jan. 2022 ~ Feb. 2022
     -   Academic Excellence, Samsung Electronics Winter S/W Camp
-    -   삼성전자 삼성전자 동계 SW 역량 강화 특강 수료, 우수자 선정
+    -   (Korean) *삼성전자 삼성전자 동계 SW 역량 강화 특강 수료, 우수자 선정*
 -   July. 2022 ~ Aug. 2022
     -   _Software Engineering Intern_, Visual Display Business, Samsung Electronics
     -   Have committed to Live Server
