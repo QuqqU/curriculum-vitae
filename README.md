@@ -40,6 +40,8 @@ My research interests lie at the intersection of systems, security, and programm
     -   Role: Backend(TS + Node-Express), Infra, CI/CD, Project Management
 -   Jan. 2022 ~ Feb. 2022
     -   Academic Excellence, Samsung Electronics Winter SW Expert Academy
+-   Aug. 2022 ~ now
+    -   Lead, GDSC Yonsei Seoul Campus, Google Developer Student Club
 
 ---
 
@@ -82,6 +84,8 @@ My research interests lie at the intersection of systems, security, and programm
     -   Have committed to Live Server
     -   Have developed Seller Office(back office of TV app store) and built MLOps
     -   Got the SW PRO Certificate during internship (Aug. 5th)
+-   Aug. 2022 ~ now
+    -   Lead, GDSC Yonsei Seoul Campus, Google Developer Student Club
 
 ---
 
