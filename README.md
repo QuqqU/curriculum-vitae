@@ -29,7 +29,7 @@ My research interests lie at the intersection of systems, security, and programm
     -   _Software Engineering Intern_, Visual Display Business, Samsung Electronics
     -   Have committed to Live Server
     -   Have developed Seller Office(back office of TV app store) and built MLOps
-    -   Got the SW PRO Certificate during internship
+    -   Got the SW PRO Certificate during internship (Aug. 5th)
 
 ---
 
@@ -78,6 +78,11 @@ My research interests lie at the intersection of systems, security, and programm
 -   Jan. 2022 ~ Feb. 2022
     -   Academic Excellence, Samsung Electronics Winter S/W Camp
     -   삼성전자 삼성전자 동계 SW 역량 강화 특강 수료, 우수자 선정
+-   July. 2022 ~ Aug. 2022
+    -   _Software Engineering Intern_, Visual Display Business, Samsung Electronics
+    -   Have committed to Live Server
+    -   Have developed Seller Office(back office of TV app store) and built MLOps
+    -   Got the SW PRO Certificate during internship (Aug. 5th)
 
 ---
 
