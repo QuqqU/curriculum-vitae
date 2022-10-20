@@ -41,7 +41,7 @@ My interests lie at the intersection of systems, security, and programming langu
 -   Jan. 2022 ~ Feb. 2022
     -   Academic Excellence, Samsung Electronics Winter SW Expert Academy
 -   Aug. 2022 ~ now
-    -   Lead, GDSC Yonsei Seoul Campus, Google Developer Student Club
+    -   Lead, GDSC Yonsei Univ Seoul Campus, Google Developer Student Club
 
 ---
 
