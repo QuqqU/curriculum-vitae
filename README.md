@@ -7,7 +7,7 @@
 ---
 
 ## Interests
-My research interests lie at the intersection of systems, security, and programming languages. In particular, I am interested in implementing and understanding compiler including, but not limited to, infrastructure, design pattern, and sw engineering.
+My interests lie at the intersection of systems, security, and programming languages. In particular, I am interested in implementing and understanding compiler including, but not limited to, infrastructure, design pattern, and sw engineering.
 
 *I don't mind the subject, the means, the method, the language, and everything to solve the problem.*
 
@@ -85,7 +85,7 @@ My research interests lie at the intersection of systems, security, and programm
     -   Have developed Seller Office(back office of TV app store) and built MLOps
     -   Got the SW PRO Certificate during internship (Aug. 5th)
 -   Aug. 2022 ~ now
-    -   Lead, GDSC Yonsei Seoul Campus, Google Developer Student Club
+    -   Lead, GDSC Yonsei Univ Seoul Campus, Google Developer Student Club
 
 ---
 
@@ -134,15 +134,6 @@ My research interests lie at the intersection of systems, security, and programm
     -   Sergeant, 1st Division, Republic of Korea Army
     -   Computer Technician
     -   Discharge from Military Service
-
----
-
-## NPM
-
--   is-real
-    -   Check whether input is real number
-    -   Developed at break time in SW Maestro 12th, for fun
-    -   https://www.npmjs.com/package/is-real
 
 ---
 
