@@ -33,15 +33,28 @@ My interests lie at the intersection of systems, security, and programming langu
 
 ---
 
-## Certificated program
+## Brief
 
+-   Feb. 2018
+    -   App Store “Who’stone” game app release
+    -   Written in Swift, two developers including myself.
+    -   All stones are black, so players need to remember which stones are black or white.
+-   July. 2018.07 ~ Nov. 2018
+    -   _Management Support Assistant_, Corporate Strategy Team, Kakao
 -   Apr. 2021 ~ Dec. 2021
     -   Team. eedited, SW Maestro 12th
     -   Role: Backend(TS + Node-Express), Infra, CI/CD, Project Management
 -   Jan. 2022 ~ Feb. 2022
-    -   Academic Excellence, Samsung Electronics Winter SW Expert Academy
+    -   Academic Excellence, Samsung Electronics Winter S/W Camp
+-   July. 2022 ~ Aug. 2022
+    -   _Software Engineering Intern_, Visual Display Business, Samsung Electronics
+    -   Have committed to Live Server
+    -   Have developed Seller Office(back office of TV app store) and built MLOps
+    -   Got the SW PRO Certificate during internship (Aug. 5th)
 -   Aug. 2022 ~ now
-    -   Lead, GDSC Yonsei Univ Seoul Campus, Google Developer Student Clubs
+    -   _Lead_, GDSC Yonsei Univ Seoul Campus, Google Developer Student Clubs
+-   Nov. 2022 ~ now
+    -   _Server Admin_, CIPLAB, Yonsei Univ 
 
 ---
 
@@ -61,31 +74,6 @@ My interests lie at the intersection of systems, security, and programming langu
         -   Korean Translation Reviewer
         -   PR # 1101 (https://github.com/phil-opp/blog_os/pull/1101)
         -   PR # 1079
-
----
-
-## Brief
-
--   Feb. 2018
-    -   App Store “Who’stone” game app release
-    -   Written in Swift, two developers including myself.
-    -   All stones are black, so players need to remember which stones are black or white.
--   July. 2018.07 ~ Nov. 2018
-    -   _Management Support Assistant_, Corporate Strategy Team, Kakao
-    -   (Korean) *카카오 공동체경영협의체 전략지원팀 어시스턴트*
--   Apr. 2021 ~ Dec. 2021
-    -   Team. eedited, SW Maestro 12th
-    -   Role: Backend(TS + Node-Express), Infra, CI/CD, Project Management
--   Jan. 2022 ~ Feb. 2022
-    -   Academic Excellence, Samsung Electronics Winter S/W Camp
-    -   (Korean) *삼성전자 삼성전자 동계 SW 역량 강화 특강 수료, 우수자 선정*
--   July. 2022 ~ Aug. 2022
-    -   _Software Engineering Intern_, Visual Display Business, Samsung Electronics
-    -   Have committed to Live Server
-    -   Have developed Seller Office(back office of TV app store) and built MLOps
-    -   Got the SW PRO Certificate during internship (Aug. 5th)
--   Aug. 2022 ~ now
-    -   Lead, GDSC Yonsei Univ Seoul Campus, Google Developer Student Clubs
 
 ---
 
@@ -137,17 +125,8 @@ My interests lie at the intersection of systems, security, and programming langu
 
 ---
 
-## Codeforces
+## Problem Solving
 
--   QuqqU (https://codeforces.com/profile/QuqqU)
-    -   high : 1719p(Blue) / 2020.11.29 ~
-
----
-
-## BOJ
-
--   Handle: QuqqU
-    -   https://www.acmicpc.net/user/QuqqU
 -   List of problems I set
     -   https://www.acmicpc.net/problemset?sort=no_asc&author=QuqqU&author_type=1
 -   List of problems I reviewed
@@ -171,3 +150,5 @@ My interests lie at the intersection of systems, security, and programming langu
 -   Mar. 2022
     -   Problem-setter (staff), Yonsei Univ. Programming Contest(first half)
         (https://www.acmicpc.net/contest/view/777)
+-   Nov. 2022
+    -   51th, 2022 ICPC Asia Seoul Regional
