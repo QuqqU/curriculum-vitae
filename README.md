@@ -2,7 +2,7 @@
 
 ### rldnd913@naver.com, answeqr@gmail.com
 
-### _updated @29/08/22_
+### _updated @12/01/22_
 
 ---
 
