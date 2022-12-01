@@ -7,7 +7,7 @@
 ---
 
 ## Interests
-My interests lie at the intersection of systems, security, and programming languages. In particular, I am interested in implementing and understanding compiler including, but not limited to, infrastructure, design pattern, and sw engineering.
+My interests lie at the intersection of systems. But not limited to, infrastructure, design pattern, and sw engineering.
 
 *I don't mind the subject, the means, the method, the language, and everything to solve the problem.*
 
