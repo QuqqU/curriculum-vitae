@@ -15,7 +15,7 @@ My interests lie at the intersection of systems. But not limited to, infrastruct
 
 ## Education
 
--   Aug. 2023
+-   Aug. 2023(Expected)
     -   B.S., Computer Science
     -   Yonsei University, South Korea
 
