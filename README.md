@@ -55,6 +55,8 @@ My interests lie at the intersection of systems. But not limited to, infrastruct
     -   _Lead_, GDSC Yonsei Univ Seoul Campus, Google Developer Student Clubs
 -   Nov. 2022 ~ now
     -   _Server Admin_, CIPLAB, Yonsei Univ 
+-   Jan. 2023 ~ now
+    -   _Undergraduate Intern_, ASOLAB, Yonsei Univ
 
 ---
 
