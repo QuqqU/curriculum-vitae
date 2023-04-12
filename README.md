@@ -1,6 +1,6 @@
 # KiUng Jung
 
-### rldnd913@naver.com, answeqr@gmail.com
+### answeqr@gmail.com
 
 ### _updated @04/12/2023_
 
