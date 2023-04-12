@@ -1,6 +1,6 @@
 # KiUng Jung
 
-### answeqr@gmail.com
+### QuqqU, answeqr@gmail.com
 
 ### _updated @04/12/2023_
 
