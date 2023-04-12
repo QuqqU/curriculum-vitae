@@ -68,15 +68,12 @@ My interests lie at the intersection of systems. But not limited to, infrastruct
     -   Gemmini-MLIR: Lowering the ONNX Neural Network Models into real NPUs (https://github.com/QuqqU/Gemmini-MLIR)
     -   Squirt Script Programming Language in Rust (https://github.com/QuqqU/Squirt)
 -   Contribution
-    -   Pwntools (CTF toolkit)
-        -   PR #2055 (Merged) : “Correct a return type in Docstring”
+    -   Apache TVM, Pwntools (CTF toolkit)
+        -   Correct typos in Docs
     -   Ubuntu 22.04 Release Note
         -   Participate in Korean translation of release note
-        -   From 'Official flavours' to 'More about Ubuntu'(3 small paragraphs)
     -   Phil-opp/blog-os (Minimal kernel in Rust)
         -   Korean Translation Reviewer
-        -   PR # 1101 (https://github.com/phil-opp/blog_os/pull/1101)
-        -   PR # 1079
 
 ---
 
