@@ -64,7 +64,8 @@ My interests lie at the intersection of systems. But not limited to, infrastruct
 
 -   QuqqU
     -   **https://github.com/QuqqU**
--   Favorite repo
+-   Favorite repos
+    -   Gemmini-MLIR: Lowering the ONNX Neural Network Models into real NPUs (https://github.com/QuqqU/Gemmini-MLIR)
     -   Squirt Script Programming Language in Rust (https://github.com/QuqqU/Squirt)
 -   Contribution
     -   Pwntools (CTF toolkit)
