@@ -141,9 +141,6 @@ My interests lie at the intersection of systems. But not limited to, infrastruct
 
 -   Nov. 2017
     -   The first prize, Sogang Univ. Programming Contest(Master)
--   Nov. 2020
-    -   Problem-reviewer (staff), Sogang Univ. Programming Contest
-        (https://www.acmicpc.net/contest/view/564)
 -   May. 2021
     -   Problem-setter (staff), Yonsei Univ. Freshman Programming Contest
         (https://www.acmicpc.net/contest/view/640)
