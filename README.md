@@ -68,10 +68,10 @@ My interests lie at the intersection of systems. But not limited to, infrastruct
     -   Gemmini-MLIR: Lowering the ONNX Neural Network Models into real NPUs (https://github.com/QuqqU/Gemmini-MLIR)
     -   Squirt Script Programming Language in Rust (https://github.com/QuqqU/Squirt)
 -   Contribution
+    -   LLVM-Project/MLIR
+        -   D147992 : [MLIR][EmitC] Disallow to apply the op & to const
     -   Apache TVM / Pwntools(CTF toolkit)
         -   Correct typos in Docs
-    -   Ubuntu 22.04 Release Note / Phil-opp/blog-os(Minimal kernel in Rust)
-        -   Participate in Korean translation
 
 ---
 
