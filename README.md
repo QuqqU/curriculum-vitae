@@ -51,11 +51,11 @@ My interests lie at the intersection of systems. But not limited to, infrastruct
     -   Have committed to Live Server
     -   Have developed Seller Office(back office of TV app store) and built MLOps
     -   Got the SW PRO Certificate during internship (Aug. 5th)
--   Aug. 2022 ~ now
+-   Aug. 2022 ~ Aug. 2023
     -   _Lead_, GDSC Yonsei Univ Seoul Campus, Google Developer Student Clubs
--   Nov. 2022 ~ now
+-   Nov. 2022 ~ May. 2023
     -   _Server Admin_, CIPLAB, Yonsei Univ 
--   Jan. 2023 ~ now
+-   Jan. 2023 ~ Aug. 2023
     -   _Undergraduate Intern_, ASOLAB, Yonsei Univ
 
 ---
