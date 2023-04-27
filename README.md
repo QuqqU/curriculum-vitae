@@ -2,7 +2,7 @@
 
 ### QuqqU, answeqr@gmail.com
 
-### _updated @04/27/2023_
+### _updated @04/28/2023_
 
 ---
 
@@ -69,7 +69,8 @@ My interests lie at the intersection of systems. But not limited to, infrastruct
     -   Squirt Script Programming Language in Rust (https://github.com/QuqqU/Squirt)
 -   Contribution
     -   LLVM-Project/MLIR
-        -   D147992 : [MLIR][EmitC] Disallow to apply the op & to const
+        -   2aa1818(D147992) : Disallow to apply the op & to const
+        -   eb22971(D147907) : [MLIR][EmitC] Add empty emitc.constant check
     -   Apache TVM / Pwntools(CTF toolkit)
         -   Correct typos in Docs
 
