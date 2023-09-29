@@ -15,7 +15,10 @@ My interests lie at the intersection of systems. But not limited to, infrastruct
 
 ## Education
 
--   Aug. 2023(Expected)
+-   Ongoing
+    -   M.S., Computer Science
+    -   Yonsei University, South Korea
+-   Aug. 2023
     -   B.S., Computer Science
     -   Yonsei University, South Korea
 
@@ -85,11 +88,11 @@ My interests lie at the intersection of systems. But not limited to, infrastruct
 
 ## Skills
 
--   C/C++ : fluent
+-   C/C++ : familiar
     -   Quite familiar, used it for a long time.
     -   Used as primary language for algoritm problem solving
     -   Familiar with STL, no problem using pointer, iterator, etc.
-    -   Experienced with threading
+    -   Experienced with MLIR
     -   Unfamiliar with Boost lib.
 -   Rust : intermediate
     -   Used as main language since Dec. 2021
@@ -103,12 +106,12 @@ My interests lie at the intersection of systems. But not limited to, infrastruct
         -   Have used jest for testing
     -   python : Web development using flask and bootstrap
     -   Swift : Have experience launching apps in App Store
--   Infra, CI/CD : fluent
+-   Infra, CI/CD : intermediate
     -   Able to use Docker
     -   Able to set CI using Gitlab-CI, githook(node-husky)
     -   Able to set CD using AWS Code Deploy
     -   Familiar with NAT, Security Group, ACL,.... in AWS VPC
--   Algorithm : intermediate
+-   Algorithm : familiar
     -   Study as a hobby
     -   Frequently use Rabin-Karp algorithm in developing
     -   Luckily have plenty of experience setting problems.
@@ -135,8 +138,8 @@ My interests lie at the intersection of systems. But not limited to, infrastruct
 
 ## Contest Experience
 
--   Nov. 2017
-    -   The first prize, Sogang Univ. Programming Contest(Master)
+-   Nov. 2020
+    -   Problem-setter (staff), UCPC
 -   May. 2021
     -   Problem-setter (staff), Yonsei Univ. Freshman Programming Contest
         (https://www.acmicpc.net/contest/view/640)
