@@ -2,7 +2,7 @@
 
 ### QuqqU, answeqr@gmail.com
 
-### _updated @09/29/2023_
+### _updated @12/13/2023_
 
 ---
 
@@ -21,6 +21,10 @@ My interests lie at the intersection of systems. But not limited to, infrastruct
 -   Aug. 2023
     -   B.S., Computer Science
     -   Yonsei University, South Korea
+
+---
+
+## Publications
 
 ---
 
@@ -60,6 +64,8 @@ My interests lie at the intersection of systems. But not limited to, infrastruct
     -   _Server Admin_, CIPLAB, Yonsei Univ 
 -   Jan. 2023 ~ Aug. 2023
     -   _Undergraduate Intern_, ASOLAB, Yonsei Univ
+-   Aug. 2023 ~
+    -   _Organizer_, GDG Seoul, Google Developer Groups
 
 ---
 
@@ -67,8 +73,6 @@ My interests lie at the intersection of systems. But not limited to, infrastruct
 
 -   QuqqU
     -   **https://github.com/QuqqU**
--   Favorite repos
-    -   Gemmini-MLIR: Lowering the ONNX Neural Network Models into real NPUs (https://github.com/QuqqU/Gemmini-MLIR)
     -   Squirt Script Programming Language in Rust (https://github.com/QuqqU/Squirt)
 -   Contribution
     -   LLVM-Project/MLIR
@@ -83,38 +87,6 @@ My interests lie at the intersection of systems. But not limited to, infrastruct
 
 -   Korean : native
 -   English : fluent(reading); intermediate(writing); basic(speaking)
-
----
-
-## Skills
-
--   C/C++ : familiar
-    -   Quite familiar, used it for a long time.
-    -   Used as primary language for algoritm problem solving
-    -   Familiar with STL, no problem using pointer, iterator, etc.
-    -   Experienced with MLIR
-    -   Unfamiliar with Boost lib.
--   Rust : intermediate
-    -   Used as main language since Dec. 2021
-    -   Implementing interpreter and compiler using Rust (Dec. 2021 ~ )
-    -   Have no difficulties in understanding or using ownership, lifetime and borrowing
--   JS, TS, python, Swift : basic
-    -   Have not used script languages often, but no problem using it lightly
-    -   JS : Have distributed npm package
-    -   TS
-        -   Have experience in setting type using .d.ts file and developing react and node-express
-        -   Have used jest for testing
-    -   python : Web development using flask and bootstrap
-    -   Swift : Have experience launching apps in App Store
--   Infra, CI/CD : intermediate
-    -   Able to use Docker
-    -   Able to set CI using Gitlab-CI, githook(node-husky)
-    -   Able to set CD using AWS Code Deploy
-    -   Familiar with NAT, Security Group, ACL,.... in AWS VPC
--   Algorithm : familiar
-    -   Study as a hobby
-    -   Frequently use Rabin-Karp algorithm in developing
-    -   Luckily have plenty of experience setting problems.
 
 ---
 
