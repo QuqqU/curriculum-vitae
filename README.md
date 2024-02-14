@@ -2,7 +2,7 @@
 
 ### QuqqU, answeqr@gmail.com
 
-### _updated @12/13/2023_
+### _updated @14/Feb/2024_
 
 ---
 
@@ -21,10 +21,6 @@ My interests lie at the intersection of systems. But not limited to, infrastruct
 -   Aug. 2023
     -   B.S., Computer Science
     -   Yonsei University, South Korea
-
----
-
-## Publications
 
 ---
 
