@@ -2,7 +2,7 @@
 
 ### QuqqU, answeqr@gmail.com
 
-### _updated @14/Feb/2024_
+### _updated @22/Aug/2024_
 
 ---
 
@@ -21,6 +21,12 @@ My interests lie at the intersection of systems. But not limited to, infrastruct
 -   Aug. 2023
     -   B.S., Computer Science
     -   Yonsei University, South Korea
+    
+---
+
+## Publication
+
+-   **Kiung Jung**, Seok Namkoong, Hongjun Um, Hyejun Kim, Youngsok Kim, and Yongjun Park. 2024. Orchestrating Multiple Mixed Precision Models on a Shared Precision-Scalable NPU. In Proceedings of the 25th ACM SIGPLAN/SIGBED International Conference on Languages, Compilers, and Tools for Embedded Systems (LCTES 2024). Association for Computing Machinery, New York, NY, USA, 72–82. https://doi.org/10.1145/3652032.3657571
 
 ---
 
