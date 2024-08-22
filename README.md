@@ -26,7 +26,7 @@ My interests lie at the intersection of systems. But not limited to, infrastruct
 
 ## Publication
 
--   **Kiung Jung**, Seok Namkoong, Hongjun Um, Hyejun Kim, Youngsok Kim, and Yongjun Park. 2024. Orchestrating Multiple Mixed Precision Models on a Shared Precision-Scalable NPU. In Proceedings of the 25th ACM SIGPLAN/SIGBED International Conference on Languages, Compilers, and Tools for Embedded Systems (LCTES 2024). Association for Computing Machinery, New York, NY, USA, 72–82. https://doi.org/10.1145/3652032.3657571
+-   **Kiung Jung**, Seok Namkoong, Hongjun Um, Hyejun Kim, Youngsok Kim, and Yongjun Park. 2024. Orchestrating Multiple Mixed Precision Models on a Shared Precision-Scalable NPU. _In Proceedings of the 25th ACM SIGPLAN/SIGBED International Conference on Languages, Compilers, and Tools for Embedded Systems (LCTES 2024). Association for Computing Machinery, New York, NY, USA, 72–82._ https://doi.org/10.1145/3652032.3657571
 
 ---
 
